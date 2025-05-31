@@ -1,4 +1,4 @@
-# react-auth-context-api 🔥
+# Performance-React 🔥
 
 This demonstrates **authentication and protected routing** in a modern React application using `Context API`, `useReducer`, and `React Router`. It also introduces a custom `useLocalStorage` hook to persist user login across page reloads.
 
